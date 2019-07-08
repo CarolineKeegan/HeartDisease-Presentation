@@ -1,0 +1,6 @@
+# iPython checkpoints
+*/.ipynb_checkpoints
+*checkpoint.ipynb
+*.csv
+*~$
+*.png
